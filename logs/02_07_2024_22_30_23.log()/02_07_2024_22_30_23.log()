@@ -1,0 +1,9 @@
+[ 2024-02-07 22:30:23,339] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-02-07 22:30:23,344] 96 werkzeug - INFO -  * Debugger PIN: 591-331-356
+[ 2024-02-07 22:30:26,364] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:30:26] "GET /predictdata HTTP/1.1" 200 -
+[ 2024-02-07 22:30:44,734] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:30:44] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2024-02-07 22:30:44,752] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:30:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2024-02-07 22:30:44,755] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:30:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2024-02-07 22:30:44,766] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:30:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-02-07 22:30:44,786] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:30:44] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2024-02-07 22:37:33,308] 96 werkzeug - INFO -  * Detected change in 'C:\\Users\\ayan0\\OneDrive\\Desktop\\New folder\\E-T-E Project\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading

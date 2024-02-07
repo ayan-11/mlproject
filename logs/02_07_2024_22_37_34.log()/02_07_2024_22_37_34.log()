@@ -1,0 +1,4 @@
+[ 2024-02-07 22:37:34,605] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2024-02-07 22:37:34,612] 96 werkzeug - INFO -  * Debugger PIN: 591-331-356
+[ 2024-02-07 22:37:39,522] 96 werkzeug - INFO - 127.0.0.1 - - [07/Feb/2024 22:37:39] "GET /predictdata?__debugger__=yes&cmd=printpin&s=RqR4Y26cKzsXShMMpJIq HTTP/1.1" 200 -
+[ 2024-02-07 22:39:05,530] 96 werkzeug - INFO -  * Detected change in 'c:\\users\\ayan0\\onedrive\\desktop\\new folder\\e-t-e project\\mlproject\\src\\pipeline\\predict_pipeline.py', reloading
